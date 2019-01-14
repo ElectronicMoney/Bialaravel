@@ -11,6 +11,7 @@
 @import 'vendors/jquery-ui';
 
 //Base
+@import 'base/animations';
 @import 'base/reset';
 @import 'base/typography';
 
@@ -27,6 +28,7 @@
 @import 'components/carousel';
 @import 'components/cover';
 @import 'components/dropdown';
+@import 'components/media';
 
 //Pages
 @import 'pages/home';
